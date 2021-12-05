@@ -12,8 +12,12 @@
 
 **Programming Languages**: Python
 
-https://public.tableau.com/app/profile/agustin.portilla/viz/RomeTour/Dashboard
+**Project Participation**: I worked independently on this project
 
-Preview:
+**Other comments**: This project only had educational purposes
+
+**Link**: https://public.tableau.com/app/profile/agustin.portilla/viz/RomeTour/Dashboard
+
+**Preview**:
 
 ![image](https://user-images.githubusercontent.com/89322259/144759259-267bb291-a6f6-4010-8965-572e53eef1aa.png)
